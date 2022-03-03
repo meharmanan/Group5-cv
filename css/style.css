@@ -1,0 +1,119 @@
+body {
+    background-color: #EAF6F6;
+}
+
+h1 {
+    margin-right: auto;
+}
+
+.i:hover {
+    background-color: white;
+}
+.ii:hover {
+    background-color: white;
+}
+.iii:hover {
+    background-color: white;
+}
+.iv:hover {
+    background-color: white;
+}
+.v:hover {
+    background-color: white;
+}
+.vi:hover {
+    background-color: white;
+}
+.vii:hover {
+    background-color: white;
+}
+.viii:hover {
+    background-color: white;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: rgb(88,87 ,87 );
+    border-width: 5px;
+    width: 70%;
+}
+
+.circular {
+    border-radius: 10%;
+}
+
+img:hover {
+    border-radius: 20%;
+    background-color: gray;
+}
+
+.circle {
+    padding-left: 33%;
+    width: 30%;
+}
+
+.mudassar {
+    width: 25%;
+}
+.zamurad {
+    width: 25%;
+}
+.atif {
+    width: 25%;
+}
+.hammad {
+    width: 25%;
+}
+
+img.circle:hover{
+    border-radius: 10%;
+    background-color: #EAF6F6;
+}
+
+.bottom {
+    background-color: #EAF6F6;
+    padding-bottom: 3%;
+    text-decoration: #EAF6F6;
+}
+
+.i {
+    margin-right: 30%;
+}
+
+.am {
+    padding-left: 30%;
+}
+.md {
+    padding-left: 30%;
+}
+.za {
+    padding-left: 30%;
+}
+.as {
+    padding-left: 30%;
+}
+.aan {
+    padding-left: 30%;
+}
+.hs {
+    padding-left: 30%;
+}
+.ma {
+    padding-left: 30%;
+}
+.gn {
+    padding-left: 40%;
+}
+.gm {
+    padding-left: 38%;
+}
+
+.atif-i {
+    width: 20%;
+}
+.hammad-i {
+    width: 50%;
+}
+.ali-i {
+    width: 25%;
+}
